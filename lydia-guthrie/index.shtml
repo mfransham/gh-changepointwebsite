@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Change Point | Lydia Guthrie</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap, Font Awesome and Google web fonts-->
+    <link href="../css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=PT+Sans:700' rel='stylesheet' type='text/css'>
+	<!-- Custom styles for this template -->
+    <link href="../css/custom.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.js"></script>
+      <script src="../js/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    
+	
+	<div class="container">
+		
+		<!--#include virtual="/includes/page-heading.ssi" -->
+
+	<script>
+	  document.getElementById("au").setAttribute("class","active");
+	 </script> 
+
+       <div class="row">
+	  
+  
+	  
+<!-- main container -->
+        <div class="col-md-7 col-md-push-2 home-page-main">
+		<p><h3>
+		<img class="pull-left" src="../img/arrows-blue.png" width="20px"></img>&nbsp Lydia Guthrie, MA Hons, MSc, Dip SW </p></h3>
+		
+		<p> Lydia Guthrie is a trainer, group facilitator and supervisor, working in criminal justice, mental health and social work settings. She spent ten years working for the Probation Service in a range of specialisms, including work with long term prisoners, and groupwork with men who have committed sexual abuse and domestic abuse. She worked as a supervisor and team manager, and also developed and delivered programmes for victims and survivors of abuse. </p>
+		
+		<p>From 2008 to 2012, she was contracted - with Clark Baim - as co-lead national trainer for the UK's community-based sexual offending treatment programmes, run by the Probation Service for England and Wales. Before qualifying as a social worker, she gained an undergraduate degree (PPE) and an MSc in Social Work from Oxford University, and worked in the voluntary sector with adults with learning disabilities, adults with physical disabilities, and with teenagers in the "looked after" system. </p>
+		
+		<p>Lydia is passionate about attachment theory, reflective supervision, mindfulness and self-compassion. As a believer in life-long learning, she has studied extensively in the Dynamic Maturational Model of Attachment and Adaptation, and is currently an MSc candidate at Roehampton University, in Attachment Studies.</p>
+		
+		</div>
+		
+<!-- left panel with quotes -->
+		
+		<div class="col-md-2 col-md-pull-7">
+		
+		<div class="quote-box">
+				<p class="quote">'It has always been a pleasure to work with Lydia. Her training is of the highest quality, and she makes such an effort to understand, and respond to, our organisation's training needs. She has been very flexible and responsive.'</p>
+				<p class="source">Oxford Domestic Abuse Coordinator</p>
+				<p class="quote">'Lydia's pre-course emails were timely, personal and informative. Everything ran very smoothly. The pre-course material was an excellent preparation for the course.'</p>
+				<p class="source">Forensic psychologist, March 2013</p>
+			
+			
+			</div>
+		
+		</div>
+
+<!-- side panels -->
+        <div class="col-md-3">
+		
+			<div class="image-container">
+			
+			
+		
+			<img class="panel-image" src="../img/lydia.jpg"></img>
+			
+			</div>
+			
+
+		</div>
+	 
+</div>
+
+
+		<!--#include virtual="/includes/page-footer.ssi" -->
+    </div> <!-- /container -->
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../js/bootstrap.min.js"></script>
+  </body>
+</html>

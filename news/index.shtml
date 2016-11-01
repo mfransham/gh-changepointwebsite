@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Change Point | News</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap, Font Awesome and Google web fonts-->
+    <link href="../css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=PT+Sans:700' rel='stylesheet' type='text/css'>
+	<!-- Custom styles for this template -->
+    <link href="../css/custom.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.js"></script>
+      <script src="../js/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    
+	
+	<div class="container">
+		
+		<!--#include virtual="/includes/page-heading.ssi" -->
+
+	<script>
+	  document.getElementById("au").setAttribute("class","active");
+	 </script> 
+
+       <div class="row">
+	  
+	  
+<!-- main container -->
+        <div class="col-md-7 col-md-push-2 home-page-main">
+		<p><h3>
+		<img class="pull-left" src="../img/arrows-blue.png" width="20px"></img>&nbsp News</h3>
+
+		<p class="news-date"> 13 June 2015</p>
+		<h4>Attachment course in October: bookings now open</h4>
+		<p>We are now taking bookings for our <i>Attachment-Based Practice with Adults</i> course on 7-9 October 2015.  <a href="/attachment-based-practice/">More details</a></p>	
+		<br/>	
+		
+		<p class="news-date"> 23 February 2015</p>
+		<h4>Attachment course in June: online bookings now open</h4>
+		<p>We are now taking online bookings for our <i>Introduction to Attachment-Based Practice</i> course on 12 June 2015.  <a href="../attachment-based-practice/">More details</a></p>
+		<br/>
+		
+		<p class="news-date"> 28 January 2015</p>
+		<h4>Lydia on BBC Radio 5 Live</h4>
+		<p>Lydia today discussed sex offender treatment on BBC Radio 5 Live in light of a BMJ article questioning its effectiveness.</p>
+		<br/>
+
+		
+		<p class="news-date"> 30 July 2014</p>
+		<h4>The Resilient Practitioner - Lydia's article for NOTA News</h4>
+		<p><a href="http://www.nota.co.uk/Content/Media/c292aa945c1d4393a512f738ae84e23a/4802-NOTANewsSummer2014FinalArtworkLowRes%281%29.pdf" target="_blank">Mindfulness, Self-compassion and the Resilient Practitioner</a> - Lydia's article for NOTA News (pages 4&5) now available online</p>
+		<br/>
+	
+		<p class="news-date"> 21 July 2014</p>
+		<h4>Changing Offending Behaviour available now</h4>
+		<p>Changing Offending Behaviour, Clark & Lydia's resource of practical exercises for criminal justice practitioners, is now published and available for purchase.  <a href="http://www.jkp.com/catalogue/book/9781849055116" target="_blank">Find out more details and get your copy</a></p>
+		<br/>
+		
+		<p class="news-date"> 16 July 2014</p>
+		<h4>Lydia on BBC Radio 4's PM programme and BBC Radio 5 Live</h4>
+		<p>Lydia was interviewed by Eddie Mair in light of the story that <a href="http://www.bbc.co.uk/news/uk-28326128" target="_blank">more than 650 people have been arrested</a> as part of a six-month operation targeting people accessing child abuse images online.  Lydia discussed sex offender treatment and what is known about the risk posed by people who access abusive images online.  You can <a href="http://www.bbc.co.uk/programmes/b0499dlp" target="_blank">listen to the interview on the BBC website</a> (first interview, at about 7 minutes in).  Lydia was also interviewed later in the day on BBC Radio 5 Live about the same story.</p>
+		<br/>
+		
+		<p class="news-date"> 01 June 2014</p>
+		<h4>Reviews available for Clark & Lydia's new book, Changing Offending Behaviour</h4>
+		<p>Changing Offending Behaviour is a one-stop resource of practical exercises for professionals to use in direct work with offenders aged 16+.  The book will be available in July 2014, but you can <a href="http://www.jkp.com/catalogue/book/9781849055116/review/">read early reviews of the book</a> now, including comments from Professors Fergus McNeill and Shadd Maruna.</p>
+		<br/>
+
+		
+		<p class="news-date"> 15 December 2013</p>
+		<h4>Mindful Co-working now published</h4>
+		<p>Clark's new book, <a href="http://www.jkp.com/catalogue/book/9781849054133/review/" target="_blank">Mindful Co-working</a>, is an indispensable guide and required reading for anyone who wants to work confidently with colleagues - and enjoy it!</p>
+		<br/>
+		
+		<p class="news-date"> 13 November 2013</p>
+		<h4>Pre-publication reviews for Mindful Co-working</h4>
+		<p>Be confident, happy and productive in your working relationships: read the pre-publication reviews for Clark's new book, <a href="http://www.jkp.com/catalogue/book/9781849054133/review/" target="_blank">Mindful Co-working</a></p>
+		<br/>
+		
+		<p class="news-date">3 October 2013</p>
+		<h4>Lydia's R4 interview nominated for broadcast award</h4>
+		<p>Lydia's BBC Radio 4 interview - about her personal reflections on working with sex offenders - has been nominated for the <a href="http://nickclarkeaward.co.uk" target="_blank">Nick Clarke award </a>for outstanding broadcast interviews</p>
+		<br/>
+		
+		<p class="news-date">26 September 2013</p>
+		<h4>Change Point's work in London highlighted in Community Care</h4>
+		<p>'<a href="http://www.communitycare.co.uk/2013/09/26/how-attachment-theory-can-transform-adult-social-work-and-save-councils-money"  target="_blank">How attachment theory can transform adult social work and save councils money</a>' - new Community Care article about Change Point's work with the London Borough of Sutton</p>
+		
+		</div>
+		
+<!-- left panel with quotes -->
+		
+		<div class="col-md-2 col-md-pull-7">
+		
+		<div class="quote-box">
+				<p class="quote"></p>
+				<p class="source"></p>
+			
+			
+			</div>
+		
+		</div>
+
+
+<!-- side panels -->
+        <div class="col-md-3">
+		
+			
+
+		</div>
+	 
+</div>
+
+		<!--#include virtual="/includes/page-footer.ssi" -->
+	  
+    </div> <!-- /container -->
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../js/bootstrap.min.js"></script>
+  </body>
+</html>

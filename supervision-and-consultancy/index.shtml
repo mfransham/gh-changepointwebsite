@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Change Point | supervision and consultancy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap, Font Awesome and Google web fonts-->
+    <link href="../css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=PT+Sans:700' rel='stylesheet' type='text/css'>
+	<!-- Custom styles for this template -->
+    <link href="../css/custom.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.js"></script>
+      <script src="../js/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    
+	
+	<div class="container">
+		
+		<!--#include virtual="/includes/page-heading.ssi" -->
+
+	<script>
+	  document.getElementById("sac").setAttribute("class","active");
+	 </script> 
+
+       <div class="row">
+	  
+
+	  
+<!-- main container -->
+        <div class="col-md-7 col-md-push-2 home-page-main">
+		<p><h3>
+		<img class="pull-left" src="../img/arrows-blue.png" width="20px"></img>&nbsp Supervision and consultancy</p></h3>
+		
+		<p>Clark and Lydia both offer clinical supervision to individuals and to teams, across mental health, criminal justice, children's and early years settings. We are passionate about the role of reflective supervision in supporting workers to remain emotionally available to their clients, whilst maintaining their own resilience. </p>
+		
+		<p>We draw upon the principles of attachment theory to inform our supervision; asking, for example:</p>
+		<ul class="mainbody">
+			<li>"How do you cope with strong emotion during your work?"</li>
+			<li>"Which clients 'hook you in'?" </li>
+			<li>"Which clients are you tempted to avoid?" </li>
+		</ul>
+		
+		<p>We promote the use of a wide range of practices, such as mindfulness and self-compassion, in order to encourage staff to adopt healthy strategies for self-management. We also offer a two day training course in Advanced Supervision Techniques, for those people wishing to develop their own supervision skills.</p>
+	
+		
+		</div>
+		
+<!-- left panel with quotes -->
+		
+		<div class="col-md-2 col-md-pull-7">
+		
+		<div class="quote-box">
+				<p class="quote">'I have had the chance to reflect more on myself as a person, how I work and how I can improve my working practice.' </p>
+				<p class="source">Substance Misuse Worker</p>
+			
+			
+			</div>
+		
+		</div>
+	  
+
+<!-- side panels -->
+        <div class="col-md-3">
+		
+			<div class="image-container">
+		
+			<img class="panel-image" src="../img/supervision.jpg"></img>
+			
+			</div>
+
+		</div>
+	 
+</div>
+
+		<!--#include virtual="/includes/page-footer.ssi" -->
+	  
+    </div> <!-- /container -->
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../js/bootstrap.min.js"></script>
+  </body>
+</html>

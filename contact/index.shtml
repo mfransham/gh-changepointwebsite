@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Change Point | contact us</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap, Font Awesome and Google web fonts-->
+    <link href="../css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=PT+Sans:700' rel='stylesheet' type='text/css'>
+	<!-- Custom styles for this template -->
+    <link href="../css/custom.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.js"></script>
+      <script src="../js/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    
+	
+	<div class="container">
+		
+		<!--#include virtual="/includes/page-heading.ssi" -->
+
+	<script>
+	  document.getElementById("au").setAttribute("class","active");
+	 </script> 
+
+       <div class="row">
+	  
+<!-- left panel with quotes -->
+		
+		<div class="col-md-2">
+		
+		
+		
+		</div>
+	  
+	  
+<!-- main container -->
+        <div class="col-md-7 home-page-main">
+		<p><h3>
+		<img class="pull-left" src="../img/arrows-blue.png" width="20px"></img>&nbsp Contact us</p></h3>
+		
+		<br />
+		<div class="row">
+		<div class="col-md-1"><i class="icon-envelope icon-2x"></i></div>
+		<div class="col-md-6"><p><a href="mailto:mailbox@changepointlearning.com">mailbox@changepointlearning.com</a></p><br /></div>
+		</div>
+		<div class="row">
+		<div class="col-md-1"><i class="icon-twitter icon-2x"></i></div>
+		<div class="col-md-6"><p>@Change_Point</p><br /></div>
+		</div>
+		<div class="row">
+		<div class="col-md-1"><i class="icon-phone icon-2x"></i></div>
+		<div class="col-md-6"><p>Lydia: +44 (0) 7803 293 223</p><br /></div>
+		</div>
+		<div class="row">
+		<div class="col-md-1"><i class="icon-phone icon-2x"></i></div>
+		<div class="col-md-6"><p>Clark: +44 (0) 7961 517 135</p><br /></div>
+		</div>
+		<div class="row">
+		<div class="col-md-1"><i class="icon-home icon-2x"></i></div>
+		<div class="col-md-6"><p>Change Point Ltd.</p>
+		<p>45 Whetstone Close</p>
+		<p>Birmingham</p>
+		<p>B15 2QN</p>
+		<p>United Kingdom</p></div>
+		</div>
+	
+		
+		</div>
+		
+<!-- side panels -->
+        <div class="col-md-3">
+		
+		<!-- mailing list subscription -->
+			<div class="panel panel-default" style="">
+				<div class="panel-heading"><i class="icon-envelope"></i> &nbsp Join our mailing list</div>
+				<div class="panel-body">
+					<p style="font-size:10px">Sign up for details of our courses and other services.  We email around 4 times a year and will never pass your email to anyone else.</p>
+					<form action="http://www.changepointlearning.com/mailman/subscribe/mailinglist_changepointlearning.com" method="POST">
+					<div class="input-prepend">
+					<input type="text" name="email" placeholder="your@email.com" />
+					</div>
+					<br />
+					<input type="submit" value="Subscribe" class="btn btn-large" name="email-button" />
+					</form>
+				</div>
+			</div>			
+
+		</div>
+	 
+</div>
+
+		<!--#include virtual="/includes/page-footer.ssi" -->
+
+    </div> <!-- /container -->
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../js/bootstrap.min.js"></script>
+  </body>
+</html>

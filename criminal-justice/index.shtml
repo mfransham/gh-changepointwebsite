@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Change Point | criminal justice</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap, Font Awesome and Google web fonts-->
+    <link href="../css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=PT+Sans:700' rel='stylesheet' type='text/css'>
+	<!-- Custom styles for this template -->
+    <link href="../css/custom.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.js"></script>
+      <script src="../js/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    
+	
+	<div class="container">
+		
+		<!--#include virtual="/includes/page-heading.ssi" -->
+
+	<script>
+	  document.getElementById("cj").setAttribute("class","active");
+	 </script> 
+
+       <div class="row">
+	  
+
+<!-- main container -->
+        <div class="col-md-7 col-md-push-2 home-page-main">
+		<p><h3>
+		<img class="pull-left" src="../img/arrows-blue.png" width="20px"></img>&nbsp Criminal justice rehabilitation</p></h3>
+		
+		<p> Both Clark and Lydia have extensive experience working in the criminal justice system, in community, prison and hospital settings, training staff and working directly with clients. In the UK, they have trained hundreds of staff in facilitating all types of groups, and supervising groupwork.</p>
+		
+		<div class="media" style="margin-bottom:0;">
+		  <a class="pull-left" href="#">
+			<img class="media-object" src="../img/book-changingoffendingbehaviour.jpg" alt="Changing Offending Behaviour" style="width:100px;">
+		  </a>
+		<div class="media-body">
+			<p>Many of Clark & Lydia's approaches to rehabilitation in criminal justice are set out in their new book Changing Offending Behaviour, published in July 2014.  A one-stop resource of practical exercises for professionals to use in direct work with offenders aged 16+, it covers  must-know theory and is packed with practical exercises that work.  The book includes photocopiable resources that can be used in direct work with clients.  <a href="http://www.jkp.com/catalogue/book/9781849055116" target="_blank">Read more about Changing Offending Behaviour</a></p>
+		
+		  </div>
+		  </div>
+
+		
+		
+		<p>Clark & Lydia's expertise and experience includes:</p> 
+		<ul class="mainbody">
+			<li>Specialism in working with people convicted of sexual abuse and domestic abuse. </li>
+			<li>Working alongside projects which support the victims of serious crime, including a long standing collaboration with <a href="http://www.circles-uk.org.uk/" target="new">Circles of Support and Accountability</a> across the UK. </li>
+			<li>Training workers from the Probation Service of Latvia to run a groupwork programme for sexual offenders. </li>
+			<li>Working with the Police to enhance interviewing skills when working with people suspected of having committed sexual offences. </li>
+			<li>Expertise at working with people who deny their convictions, and with involuntary clients. </li>
+		</ul>
+		
+		<p>We are open to collaboration with agencies across the criminal justice sector, to develop projects working directly with clients, or their families, or to design and deliver staff training. </p>
+		
+		</div>
+		
+
+<!-- left panel with quotes -->
+		
+		<div class="col-md-2 col-md-pull-7">
+		
+		<div class="quote-box">
+				<p class="quote">'During the 10 year period that they worked on the national training contract, Clark Baim and Lydia Guthrie were consistently solution-focussed. They always found constructive and positive ways to move forwards.'</p>
+				<p class="source">Effective Practice Training Manager, National Offender Management Service</p>
+				<p class="quote">'Many thanks to Change Point for your significant contribution to the development of a specialised system for work with sexual offenders in Latvia. You offered excellent preparation and training to our specialists. It was a pleasure to work with you.'</p>
+				<p class="source">A Dementjevs, Head of State Probation Service of Latvia</p>
+				<p class="quote">'It has always been a pleasure to work with Lydia. Her training is of the highest quality, and she makes such an effort to understand, and respond to, our organisation's training needs. She has been very flexible, and responsive.'</p>
+				<p class="source">Oxford Domestic Abuse Co-ordinator</p>
+				
+
+			</div>
+		
+		</div>
+
+
+<!-- side panels -->
+        <div class="col-md-3">
+		
+			<div class="image-container">
+		
+			<img class="panel-image" src="../img/crimjustice.jpg"></img>
+			
+			</div>
+			
+
+		</div>
+	 
+</div>
+
+		<!--#include virtual="/includes/page-footer.ssi" -->
+
+		</div> <!-- /container -->
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../js/bootstrap.min.js"></script>
+  </body>
+</html>

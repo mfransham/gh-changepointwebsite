@@ -1,0 +1,49 @@
+<!-- logo and contacts -->
+		<div class="row">
+			<div class="col-md-8">
+				<a href="/"><img class="pull-left" src="/img/logo-blue.png" width="280px"></img></a>
+			</div>
+			<div class="col-md-4 contacts">
+				<p><i class="icon-phone"></i> (+44) 07803 293223</p>
+				<p><i class="icon-envelope"></i> <a href="mailto:mailbox@changepointlearning.com" style="color:black">mailbox@changepointlearning.com</a></p>
+				<p><i class="icon-twitter"></i> @Change_Point</p>
+			</div>
+		</div>
+		
+ <!-- Static navbar -->
+       <div class="navbar navbar-default" role="navigation">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li id="homelink"><a class="home-link" href="/"> <i class="icon-home icon-2x"></i></a></li>
+			<li id="abp"><a href="/attachment-based-practice/">Attachment-based practice</a></li>
+			<li id="cj"><a href="/criminal-justice/">Criminal justice rehabilitation</a></li>
+			<li id="sac"><a href="/supervision-and-consultancy/">Supervision & consultancy</a></li>
+			<li id="taf"><a href="/training-and-facilitation/">Bespoke training & facilitation</a></li>
+			<li id="pd"><a href="/programme-development/">Programme development</a></li>
+            </ul>
+          <ul class="nav navbar-nav navbar-right">
+			<li id="au" class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">About us <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+				<li><a href="/contact/">Contact us</a></li>
+				<li class="divider"></li>
+                <li class="dropdown-header">Our Directors</li>
+                <li><a href="/clark-baim/">Clark Baim</a></li>
+                <li><a href="/lydia-guthrie/">Lydia Guthrie</a></li>
+				<li class="divider"></li>
+				<li style="display:none;"><a href="/clients-and-testimonials/">Clients & testimonials</a></li>
+				<li><a href="/news">News</a></li>
+                <li><a href="/publications-and-media">Books & media</a></li>
+				<li style="display:none;"><a href="/resources-and-links/">Resources & links</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>

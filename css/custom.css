@@ -1,0 +1,311 @@
+body {
+padding: 30px;
+padding-top: 10px;
+font-family: "Open Sans", Arial, sans-serif;
+background-image:url("../img/paper_fibers.png");
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "PT Sans", Arial, sans-serif;
+	
+}
+
+h3 {
+	margin-top: 0px;
+}
+
+.inline-elements {
+	display:inline-block;
+	vertical-align: middle;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	}
+
+.media-object {
+	width: 200px;
+	margin-right: 20px;
+	}
+
+.media {
+	margin-bottom: 40px;
+	}
+
+.contacts{
+	color: black;
+	text-align: right;
+}
+
+.quote{
+	color: #006485;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.source{
+	font-style: italic;
+	font-size: 12px;
+}
+
+.quote-box{
+padding-right: 10px;
+padding-bottom: 20px;
+/*border-right-style: solid;
+border-right-width: 1px;
+border-right-color: #0099cc;*/
+}
+
+ul.mainbody {
+list-style-type: square;
+}
+
+ul.mainbody > li {
+text-align: left;
+}
+
+img.panel-image {
+	max-width:100%;
+	max-height:100%;
+	padding-bottom: 20px;
+}
+
+.btn {
+	background-color: #006485;
+	color: white;
+}
+
+.icon-edit {
+	color: #006485;
+}
+
+.home-page-main{
+	padding-bottom: 20px;
+}
+
+.text-only{
+      width:200px;
+      height:400px;
+      min-width:150px;
+      min-height:100px;
+      overflow:hidden;
+      display:block;
+}
+
+.navbar {
+margin-bottom: 15px;
+}
+
+.navbar-default {
+background-color: #0099cc;
+border-color: #0099cc;
+color: white;
+font-weight: none;
+}
+
+/* link */
+.navbar-default .navbar-nav > li > a {
+    color: white;
+	font-weight: none;
+	font-size: 14px;
+	display:block;
+	width: 150px;
+}
+
+.navbar-default .navbar-nav > li > a.home-link {
+display:block;
+width: 70px;
+height:70px;
+padding-top:20px;
+}
+
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus {
+    color: white;
+    background-color: #006485;
+}
+
+.navbar-default .navbar-nav > .open > a, 
+.navbar-default .navbar-nav > .open > a:hover, 
+.navbar-default .navbar-nav > .open > a:focus {
+    color: white;
+    background-color: #006485;
+}
+
+/* caret */
+.navbar-default .navbar-nav > .dropdown > a .caret {
+  border-top-color: white;
+  border-bottom-color: white;
+}
+
+.navbar-default .navbar-nav > .dropdown > a:hover .caret,
+.navbar-default .navbar-nav > .dropdown > a:focus .caret {
+  border-top-color: #333333;
+  border-bottom-color: #333333;
+}
+
+.navbar-default .navbar-nav > li > a .caret {
+    border-top-color: white;
+    border-bottom-color: white;
+}
+.navbar-default .navbar-nav > li > a:hover .caret {
+    border-top-color: white;
+    border-bottom-color: white;
+}
+.navbar-default .navbar-nav > .open > a .caret, 
+.navbar-default .navbar-nav > .open > a:hover .caret, 
+.navbar-default .navbar-nav > .open > a:focus .caret {
+    border-top-color: white;
+    border-bottom-color: white;
+}
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+  background-color: #006485;
+  color:white;
+}
+
+.panel-default {
+border-color: #006485;
+background-color: transparent;
+}
+
+.panel-default  .panel-heading {
+background-color: #006485;
+color: white;
+}
+
+hr {
+border-color: #0099cc;
+}
+
+.footer{
+font-size: 12px;
+}
+
+.footer > a{
+color: black;
+}
+
+li {
+text-align: center;
+vertical-align: middle;
+
+}
+
+p.news-date {
+font-size: 12px;
+text-decoration: underline;
+}
+
+ul.dropdown-menu li {
+text-align: right;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.carousel-control i {
+	vertical-align: middle;
+	
+}
+
+i.icon-chevron-left {
+	position: absolute;
+	display: inline-block;
+	top: 50%;
+}
+
+i.icon-chevron-right {
+	position: absolute;
+	display: inline-block;
+	top: 50%;
+}
+
+.carousel-caption {
+	position: absolute;
+	right: 15%;
+	top: 20px;
+	bottom: auto;
+	left: 15%;
+	text-align: center;
+	padding: 10px;
+	padding-bottom: 20px;
+	background-color: rgb(103,103,103);
+	background-color: rgba(0,0,0,0.5);	
+	margin:0 auto;
+	max-width: 700px;
+	
+}
+
+.carousel-caption a,
+.carousel-caption a:hover,
+.carousel-caption a:focus  {
+	color:white;
+}
+
+a, a:hover, a:focus {
+	color: #0099cc;
+	outline:none;
+}
+
+@media (min-width: 1200px) {
+a.dropdown-toggle {
+	height:70px;
+	}
+}
+
+@media (max-width: 1199px) {
+	.contacts {
+	display:none;
+}
+
+.navbar-default .navbar-nav > li > a {
+	display:block;
+	width: auto;
+}
+.navbar-default .navbar-nav > li > a.home-link {
+display:none;
+}
+.navbar-nav .open .dropdown-menu {
+    float: center;
+	color: white;
+	background-color: transparent;
+	position: inherit;
+  }
+ .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: white;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: white;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: white;
+}
+ul.dropdown-menu li {
+	text-align: center;
+}
+li.dropdown-header {
+	color:white;
+}
+.quote-box {
+	border-right-style:none;
+}
+
+
+
+
+
+
+
+

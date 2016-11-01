@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Change Point | research and programme development</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap, Font Awesome and Google web fonts-->
+    <link href="../css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=PT+Sans:700' rel='stylesheet' type='text/css'>
+	<!-- Custom styles for this template -->
+    <link href="../css/custom.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.js"></script>
+      <script src="../js/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    
+	
+	<div class="container">
+		
+		<!--#include virtual="/includes/page-heading.ssi" -->
+
+	<script>
+	  document.getElementById("pd").setAttribute("class","active");
+	 </script> 
+
+       <div class="row">
+	  
+	  
+<!-- main container -->
+        <div class="col-md-7 col-md-push-2 home-page-main">
+		<p><h3>
+		<img class="pull-left" src="../img/arrows-blue.png" width="20px"></img>&nbsp Research and programme development</p></h3>
+		
+		<p> Clark and Lydia have extensive experience in writing programmes for use with those convicted of serious violent or sexual offences, in the criminal justice and mental health sectors. Our new book <a href="http://www.jkp.com/catalogue/book/9781849055116" target="new">Changing Offending Behaviour</a> will be published in July 2014.<p>
+
+		<p>Programmes we have developed include:</p>
+		<ul class="mainbody">
+			<li>A voluntary intervention for men who admit interpersonal violence, but have not been convicted, via Hertfordshire Constabulary</li>
+			<li>A full programme for male patients who have committed sexual offences, with responsivity options for personality disorder, learning disability and mental health issues</li>
+			<li>A programme for use with men who deny having committed sexual offences, for use in the Probation Service</li>
+		</ul>
+</p>
+	
+		
+		</div>
+		
+
+<!-- left panel with quotes -->
+		
+		<div class="col-md-2 col-md-pull-7">
+		
+		<div class="quote-box">
+				<p class="quote"></p>
+				<p class="source"></p>
+			
+			
+			</div>
+		
+		</div>
+
+<!-- side panels -->
+        <div class="col-md-3">
+		
+			<div class="image-container">
+		
+			<img class="panel-image" src="../img/research.jpg"></img>
+			
+			</div>
+
+		</div>
+	 
+</div>
+
+
+		<!--#include virtual="/includes/page-footer.ssi" -->
+	  
+    </div> <!-- /container -->
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../js/bootstrap.min.js"></script>
+  </body>
+</html>

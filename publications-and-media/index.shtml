@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Change Point | Publications & Media</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap, Font Awesome and Google web fonts-->
+    <link href="../css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=PT+Sans:700' rel='stylesheet' type='text/css'>
+	<!-- Custom styles for this template -->
+    <link href="../css/custom.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.js"></script>
+      <script src="../js/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    
+	
+	<div class="container">
+		
+		<!--#include virtual="/includes/page-heading.ssi" -->
+
+	<script>
+	  document.getElementById("au").setAttribute("class","active");
+	 </script> 
+
+       <div class="row">
+	  
+  
+<!-- main container -->
+        <div class="col-md-7 col-md-push-2 home-page-main">
+		<p><h3>
+		<img class="pull-left" src="../img/arrows-blue.png" width="20px"></img>&nbsp Books</p></h3>
+		
+		<div class="media">
+		  <a class="pull-left" href="#">
+			<img class="media-object" src="../img/book-changingoffendingbehaviour.jpg" alt="Changing Offending Behaviour">
+		  </a>
+		  <div class="media-body">
+			<h4 class="media-heading">Changing Offending Behaviour</h4>
+			<p style="font-style:italic;">Clark Baim & Lydia Guthrie, 2014</p>
+			<p>A one-stop resource of practical exercises for professionals to use in direct work with offenders aged 16+.  Covering must-know theory and packed with practical exercises that work, this is an indispensable resource for probation workers and related professionals.</p>
+			<p>"Like all great books, this one will help you by encouraging you to ask intelligent and provocative questions - and if you use it wisely, it will support positive changes in your practice and therefore positive changes in others." (From the Foreword by Fergus McNeill, Professor of Criminology and Social Work, University of Glasgow)</p>
+			</p><a href="http://www.jkp.com/catalogue/book/9781849055116" target="_blank">Read more details and purchase your copy</a></p>
+		  </div>
+		</div>
+		
+		<div class="media">
+		  <a class="pull-left" href="#">
+			<img class="media-object" src="../img/book-mindfulcoworking.png" alt="Mindful Co-Working">
+		  </a>
+		  <div class="media-body">
+			<h4 class="media-heading">Mindful Co-Working</h4>
+			<p style="font-style:italic;">Clark Baim, 2013</p>
+			<p>Are you making the most of your co-working relationships?  Most of us work with others and spend as much time with colleagues as we do with our families - so it's important our working relationships run smoothly. By helping workers become more attuned to their colleagues, mindful co-working removes the pressure and stress of competition from working relationships to make them both more enjoyable and more effective.</p>
+			<p>This indispensable guide to co-working is required reading for anyone who wants to work confidently with colleagues - and enjoy it!</p>
+			</p><a href="http://www.jkp.com/catalogue/book/9781849054133" target="_blank">Read more details and purchase your copy</a></p>
+		  </div>
+		</div>
+		
+		<div class="media">
+		  <a class="pull-left" href="#">
+			<img class="media-object" src="../img/book-attachmentbasedpractice.jpg" alt="Attachment-Based Practice With Adults">
+		  </a>
+		  <div class="media-body">
+			<h4 class="media-heading">Attachment-Based Practice With Adults</h4>
+			<p style="font-style:italic;">Clark Baim & Tony Morrison, 2011</p>
+			<p>This illustrated, multi-media resource offers a theoretically coherent, practice-based model for the application of attachment theory in working with any adults, including those who pose a risk to themselves or to other adults or children.</p>
+			<p>This essential guide increases the confidence of practitioners to act as change agents with their clients, and to relate to them in attuned and effective ways. It can be used by individuals, teams, co-workers, supervisors and teachers/trainers to reflect on and improve the preparation, use and support of attachment thinking in practice. It speaks to diverse professions and modalities and can be used in a multidisciplinary environment by both adult and children's services.</p>
+			</p><a href="http://www.pavpub.com/attachment-based-practice-with-adults/" target="_blank">Read more details and purchase your copy.</a></p>
+		  </div>
+		</div>
+		
+		<p><h3>
+		<img class="pull-left" src="../img/arrows-blue.png" width="20px"></img>&nbsp Media</p></h3>
+		
+		<h4>The Resilient Practitioner - Lydia's article for NOTA News (July 2014)</h4>
+		<p><a href="http://www.nota.co.uk/Content/Media/c292aa945c1d4393a512f738ae84e23a/4802-NOTANewsSummer2014FinalArtworkLowRes%281%29.pdf" target="_blank">Mindfulness, Self-compassion and the Resilient Practitioner</a> - article by Lydia for NOTA News (pages 4&5).</p>
+		<br/>
+		
+		<h4>Lydia on BBC Radio 4's PM programme and BBC Radio 5 Live (July 2014)</h4>
+		<p>Lydia was interviewed by Eddie Mair in light of the story that <a href="http://www.bbc.co.uk/news/uk-28326128" target="_blank">more than 650 people had been arrested</a> as part of a six-month operation targeting people accessing child abuse images online.  Lydia discussed sex offender treatment and what is known about the risk posed by people who access abusive images online. </p> 
+		<p><a href="http://www.bbc.co.uk/programmes/b0499dlp" target="_blank">Listen to the interview on the BBC website</a> (first interview, at about 7 minutes in)</p>
+		<br/>		
+		
+		<h4>How attachment theory can transform adult social work and save councils money (Community Care, September 2013)</h4>
+		<p>This article in Community Care highlights Change Point's work in the London Borough of Sutton, training adult social workers in attachment-based practice.</p>
+		<p><a href="http://www.communitycare.co.uk/2013/09/26/how-attachment-theory-can-transform-adult-social-work-and-save-councils-money" target="_blank">Read the article on the Community Care website</a></p>
+		<br/>
+		
+		<h4>"Why I work with sex offenders": interview for BBC Radio 4's iPM programme (May 2013)</h4>
+		<p>Speaking from a personal point of view, Lydia discusses with iPM's Jennifer Tracey her experience of working with sex offenders and her belief in its importance.</p>
+		<p><a href="http://www.bbc.co.uk/news/magazine-22658969" target="_blank">Listen to Lydia's interview on the BBC News website</a></p>
+		<br/>
+		
+		<h4>Viewpoint: Why I'm right to work with sex offenders (BBC News, May 2013)</h4>
+		<p>Edited transcript of Lydia's interview for iPM - <a href="http://www.bbc.co.uk/news/magazine-22653991" target="_blank">read on the BBC News website</a></p>
+		<br/>
+
+		
+		
+				
+		</div>
+		
+<!-- left panel with quotes -->
+		
+		<div class="col-md-2 col-md-pull-7">
+		
+		
+		
+		</div>
+
+
+<!-- side panels -->
+        <div class="col-md-3">
+		
+		
+
+		</div>
+	 
+</div>
+
+		<!--#include virtual="/includes/page-footer.ssi" -->
+	  
+    </div> <!-- /container -->
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../js/bootstrap.min.js"></script>
+  </body>
+</html>

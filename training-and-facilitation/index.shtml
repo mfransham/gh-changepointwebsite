@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Change Point | bespoke training and facilitation</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap, Font Awesome and Google web fonts-->
+    <link href="../css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=PT+Sans:700' rel='stylesheet' type='text/css'>
+	<!-- Custom styles for this template -->
+    <link href="../css/custom.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.js"></script>
+      <script src="../js/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    
+	
+	<div class="container">
+		
+		<!--#include virtual="/includes/page-heading.ssi" -->
+
+	<script>
+	  document.getElementById("taf").setAttribute("class","active");
+	 </script> 
+
+       <div class="row">
+	  
+	  
+<!-- main container -->
+        <div class="col-md-7 col-md-push-2 home-page-main">
+		<p><h3>
+		<img class="pull-left" src="../img/arrows-blue.png" width="20px"></img>&nbsp Bespoke training and facilitation</p></h3>
+		
+		<p>Clark and Lydia are regularly commissioned by organisations across the public, private and voluntary sectors to develop bespoke training packages, or to facilitate groups and workshops. We are always keen to explore potential collaboration.</p>
+		
+		<p>Recent commissions include:</p>
+		<ul class="mainbody">
+			<li>A training package for Hertfordshire Constabulary to enhance their skills for interviewing suspected sex offenders</li>
+			<li>A training package for the National Offender Management Service to empower Victim Liaison Officers </li>
+			<li>A training package for the Make A Change Team, Suffolk County Council, on attachment based practice, loss and trauma </li>
+			<li>Numerous conference workshops for  organisations including the NSPCC and Circles of Support and Accountability </li>
+		</ul>
+</p>
+	
+		
+		</div>
+		
+<!-- left panel with quotes -->
+		
+		<div class="col-md-2 col-md-pull-7">
+		
+		<div class="quote-box">
+				<p class="quote">'The best training I have had in years, very powerful and so worthwhile. I got so much out of it'</p>
+				<p class="source">2007 Course Participant</p>
+				<p class="quote">'They are continually updating and refreshing their practice and adapting training materials to ensure they remain relevant and up to date.   I always experienced a can do and responsive approach.'</p>
+				<p class="source">Sarah WinWin Sein, Director, Derbyshire Probation Trust</p>
+			
+			</div>
+		
+		</div>
+
+
+<!-- side panels -->
+        <div class="col-md-3">
+		
+			<div class="image-container">
+		
+			<img class="panel-image" src="../img/training.jpg"></img>
+			
+			</div>
+
+		</div>
+	 
+</div>
+
+		<!--#include virtual="/includes/page-footer.ssi" -->
+	  
+    </div> <!-- /container -->
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../js/bootstrap.min.js"></script>
+  </body>
+</html>

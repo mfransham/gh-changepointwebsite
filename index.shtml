@@ -1,0 +1,185 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Change Point | active approaches to learning</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=PT+Sans:700' rel='stylesheet' type='text/css'>
+	<!-- Custom styles for this template -->
+    <link href="css/custom.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->
+	
+	<!-- this is the version with SSIs -->
+  </head>
+  <body>
+    
+	
+	<div class="container">
+		
+		<!--#include virtual="/includes/page-heading.ssi" -->
+
+	<script>
+	  document.getElementById("homelink").setAttribute("class","active");
+	 </script> 
+	  
+       <div class="row">
+	  
+
+	  
+	  
+<!-- main container -->
+        <div class="col-md-7 col-md-push-2 home-page-main">
+		<p><h3 style="text-align:center;">
+<!-- 		<img class="pull-left" src="img/arrows-blue.png" width="20px"></img>&nbsp  
+ -->		Delivering accelerated learning to social care, mental health and criminal justice agencies across the globe</h3>
+			<p style="text-align:center;">Change Point Directors <a href="/clark-baim/">Clark Baim</a> and <a href="/lydia-guthrie/">Lydia Guthrie</a> specialise in the development of mindful practice in the workplace, attachment-based practice in social & health care and criminal justice rehabilitation programmes.</p>
+			
+		<div id="myCarousel" class="carousel slide" data-ride="carousel">
+			<ol class="carousel-indicators">
+			<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+			<li data-target="#myCarousel" data-slide-to="1"></li>
+			<li data-target="#myCarousel" data-slide-to="2"></li>
+			<li data-target="#myCarousel" data-slide-to="3"></li>
+			<li data-target="#myCarousel" data-slide-to="4"></li>
+			</ol>
+			
+			<!-- Carousel items -->
+			<div class="carousel-inner">
+			<div class="active item">
+				<img src="img/attachment.png" alt="">
+				<div class="carousel-caption">
+				 <h4><a href="attachment-based-practice/">Attachment-based practice</a></h4>
+				 <p>Our courses help busy practitioners and supervisors translate the insights of attachment theory into principles, tools and practical strategies for working.</p>
+				 <p class="more"><a href="attachment-based-practice/">Find out more...</a></p>
+				</div>
+			</div>
+			<div class="item">
+				<img src="img/crimjustice.jpg" alt="">
+				<div class="carousel-caption">
+				 <h4><a href="criminal-justice/">Criminal justice rehabilitation</a></h4>
+				 <p>Between them, our Directors Clark and Lydia have over two decades experience of training for and delivering criminal justice rehabilitation programmes.</p>
+				 <p class="more"><a href="criminal-justice/">Find out more...</a></p>
+				</div>
+			</div>
+			<div class="item">
+				<img src="img/supervision.jpg" alt="">
+				<div class="carousel-caption">
+				<h4><a href="supervision-and-consultancy/">Supervision & consultancy</a></h4>
+				<p>We offer supervision and consultancy services to practitioners in social care, mental health and criminal justice.</p>
+				 <p class="more"><a href="supervision-and-consultancy/">Find out more...</a></p>
+				</div>
+			</div>
+			<div class="item">
+				<img src="img/training.jpg" alt="">
+				<div class="carousel-caption">
+				<h4><a href="training-and-facilitation/">Bespoke training & facilitation</a></h4>
+				<p>As experienced trainers and facilitators, we can design training to suit any challenge.</p>
+				 <p class="more"><a href="training-and-facilitation/">Find out more...</a></p>
+				</div>
+			</div>
+				<div class="item">
+				<img src="img/research.jpg" alt="">
+				<div class="carousel-caption">
+				<h4><a href="programme-development/">Research & programme development</a></h4>
+				<p>We can help to develop effective intervention programmes for a wide range of clients.</p>
+				 <p class="more"><a href="programme-development/">Find out more...</a></p>
+				</div>
+			</div>
+		</div>
+			
+			<!-- Carousel nav -->
+			<a class="carousel-control left" href="#myCarousel" data-slide="prev"><i class="icon-chevron-left icon-2x"></i></a>
+			<a class="carousel-control right" href="#myCarousel" data-slide="next"><i class="icon-chevron-right icon-2x"></i></a>
+			
+		</div>
+		
+		
+		</div>
+		
+<!-- left panel with quotes -->
+		
+		<div class="col-md-2 col-md-pull-7">
+		
+		<div class="quote-box">
+				<p class="quote">'This was the best training I have EVER been on and a must for all people involved in mental health.'</p>
+				<p class="source">Clinical Psychologist</p>
+				<p class="quote">'This was excellent and thought-provoking training &#45; really enjoyable and informative.'</p>
+				<p class="source">Social Worker</p>
+				<p class="quote">'Time flew by! I was sometimes on the edge of my seat!'</p>
+				<p class="source">Children's Centre Teacher</p>
+				<p class="quote">'Clark and Lydia were very warm, approachable and friendly, with a caring style of delivery. I felt that we all mattered equally as course participants.'</p>
+				<p class="source">Delegate on attachment course</p>
+				<p class="quote">'Very knowledgeable trainers, and good interaction with the group &#45; lots of opportunities to ask questions and have discussions.'</p>
+				<p class="source">Assistant Head Teacher, Primary School</p>
+				
+			
+			</div>
+		
+		</div>
+
+
+<!-- side panels -->
+        <div class="col-md-3">
+		
+			<!-- mailing list subscription -->
+			<div class="panel panel-default" style="">
+				<div class="panel-heading"><i class="icon-envelope"></i> &nbsp Join our mailing list</div>
+				<div class="panel-body">
+					<p style="font-size:10px">Sign up for details of our courses and other services.  We email around 4 times a year and will never pass your email to anyone else.</p>
+					<form action="http://www.changepointlearning.com/mailman/subscribe/mailinglist_changepointlearning.com" method="POST">
+					<div class="input-prepend">
+					<input type="text" name="email" placeholder="your@email.com" />
+					</div>
+					<br />
+					<input type="submit" value="Subscribe" class="btn btn-large" name="email-button" />
+					</form>
+				</div>
+			</div>		
+		
+			<!-- news panel -->
+			<div class="panel panel-default">
+				<div class="panel-heading"><i class="icon-info-sign"></i> &nbsp News</div>
+				<div class="panel-body">
+
+				<p class="news-date"> 9 October 2015</p>
+				<p>Our <i>Attachment-Based Practice with Adults</i> course was a great success.  Keep an eye out here for future dates - or join our mailing list.</p>	
+				
+				<p class="news-date"> 13 June 2015</p>
+				<p>We are now taking bookings for our <i>Attachment-Based Practice with Adults</i> course on 7-9 October 2015.  <a href="/attachment-based-practice/">More details</a></p>	
+							
+				<p class="news-date"> 28 January 2015</p>
+				<p>Lydia discussed sex offender treatment on BBC Radio 5 Live in light of a BMJ article questioning its effectiveness.  </p>
+				
+				<p class="news-date"> 21 July 2014</p>
+				<p>Changing Offending Behaviour, Clark & Lydia's resource of practical exercises for criminal justice practitioners, is now published and available for purchase.  <a href="http://www.jkp.com/catalogue/book/9781849055116" target="_blank">Find out more details and get your copy</a></p>
+			
+				</div>
+			</div>
+						
+			<!-- Twitter feed -->
+<a class="twitter-timeline"  href="https://twitter.com/Change_Point"  data-widget-id="488807494848749568">Tweets by @Change_Point</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+			
+		</div>
+      </div>   
+
+	<!--#include virtual="/includes/page-footer.ssi" -->	  
+
+	</div> <!-- /container -->
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>

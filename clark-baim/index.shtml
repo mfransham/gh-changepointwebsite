@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Change Point | Clark Baim</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap, Font Awesome and Google web fonts-->
+    <link href="../css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=PT+Sans:700' rel='stylesheet' type='text/css'>
+	<!-- Custom styles for this template -->
+    <link href="../css/custom.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.js"></script>
+      <script src="../js/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    
+	
+	<div class="container">
+		<!--#include virtual="/includes/page-heading.ssi" -->
+
+	<script>
+	  document.getElementById("au").setAttribute("class","active");
+	 </script> 
+		
+
+       <div class="row">
+	  
+<!-- main container -->
+        <div class="col-xs-12 col-md-7 col-md-push-2 home-page-main">
+		<p><h3>
+		<img class="pull-left" src="../img/arrows-blue.png" width="20px"></img>&nbsp Clark Baim M.Ed., BPA, UKCP</p></h3>
+		
+		<p> As well as being a Change Point Director, Clark is a Senior Trainer in Psychodrama Psychotherapy and Co-Director of the Birmingham Institute for Psychodrama. In the 1980s, Clark was the founder and first Director of Geese Theatre UK, using applied drama in prisons and probation. In the 1990s, he worked as a group psychotherapist for five years at HM Prison Grendon, and between 2000 and 2012 he was the Co-Lead National Trainer for Sexual Offending Groupwork Programmes run by the Probation Service. </p>
+		
+		<p>Clark has studied extensively in the Dynamic-Maturational Model of Attachment and Adaptation with Dr. Patricia Crittenden, and developed Change Point's attachment course with Tony Morrison in 2002. He has trained several thousand practitioners from many disciplines in attachment-based practice. He is the co-author and co-editor of five books and author of numerous articles and chapters in journals and books. </p>
+		
+		<p>You can find more about Clark's work at his <a href="http://clarkbaim.com" target="_blank">own website</a> and at the <a href="http://www.birminghampsychodrama.co.uk" target="_blank">Birmingham Institute for Psychodrama</a> website.<p>	
+		
+		</div>
+
+<!-- left panel with quotes -->
+		
+		<div class="col-xs-12 col-md-2 col-md-pull-7">
+		
+		<div class="quote-box">
+				<p class="quote">'Clark's training is empowering, respectful and enlightening. He brings enormous compassion and insight - a wonderful learning experience.'</p>
+				<p class="source">Senior Manager, Social Work, 2013</p>
+	
+				<p class="quote">'Clark is an inspirational person to be around. He recognises differences and celebrates individuality.'</p>
+				<p class="source">2013 participant, Social Worker</p>
+			
+			</div>
+		
+		</div>
+		
+<!-- side panels -->
+        <div class="col-xs-12 col-md-3">
+		
+			<div class="image-container">
+		
+			<img class="panel-image" src="../img/clark.jpg"></img>
+			
+			</div>
+			
+
+		</div>
+	 
+</div>
+
+		<!--#include virtual="/includes/page-footer.ssi" -->
+
+	  
+    </div> <!-- /container -->
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../js/bootstrap.min.js"></script>
+  </body>
+</html>

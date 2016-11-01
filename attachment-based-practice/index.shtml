@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Change Point | attachment-based practice</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap, Font Awesome and Google web fonts-->
+    <link href="../css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=PT+Sans:700' rel='stylesheet' type='text/css'>
+	<!-- Custom styles for this template -->
+    <link href="../css/custom.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.js"></script>
+      <script src="../js/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    
+	
+	<div class="container">
+		
+		<!--#include virtual="/includes/page-heading.ssi" -->
+
+	<script>
+	  document.getElementById("abp").setAttribute("class","active");
+	 </script> 
+
+		
+       <div class="row">
+	  
+ 
+	  
+<!-- main container -->
+        <div class="col-md-7 col-md-push-2 home-page-main">
+		
+		<!-- <div class="panel panel-default"> -->
+			<!-- <div class="panel-body"> -->
+			<h3><img class="pull-left" src="../img/arrows-blue.png" width="20px"></img>&nbsp Attachment-based practice</p></h3>
+			<p>We offer a variety of courses on attachment-based practice.  Below are details of our <i>Attachment-Based Practice with Adults</i> course, which last ran in October 2015.  Keep an eye out here for future courses or <a href="../contact">contact us</a> with your requirements.</p>
+			
+			<hr />
+			
+			<h3><i class="icon-edit icon-2x pull-left icon-muted"></i> Attachment-Based Practice with Adults</h3>
+			<p>A three-day course for professionals from a range of disciplines who work with parents, carers or other adults whose behaviour may place children or other adults at risk of significant harm.  All delegates will receive a copy of Attachment-based Practice with Adults, by Clark Baim and Tony Morrison, published 2011 by Pavilion (retail price &pound;115).</p><br />
+				
+			<p><h3>
+			<img class="pull-left" src="../img/arrows-blue.png" width="20px"></img>&nbsp What the course offers:</p></h3>
+				<ul class="mainbody">
+					<li>Understanding the key elements of contemporary attachment theory</li>
+					<li>Identifying how attachment strategies are expressed in speech and behaviour</li>
+					<li>Developing interview skills to assess the nature of the attachment strategy</li>
+					<li>Learning and practising a five-stage protocol to improve psychological coherence</li>
+					<li>Applying theory in practice through transcript analysis of clinical interviews</li>
+					<li>A comprehensive guide on attachment based interviewing, with detailed case studies</li>
+				</ul>
+			
+			<p>The course is a mixture of presentation, audio and video clips, and small group tasks.</p><br/>
+		
+		<p><h3>
+		<img class="pull-left" src="../img/arrows-blue.png" width="20px"></img>&nbsp Who is this course for?</p></h3>
+			<p>This course is for professionals with some experience of undertaking assessments or therapeutic work with parents or other adults who pose a risk to themselves or others. This includes those working in child welfare / child protection settings, adult mental health or counselling services, criminal justice and multi-disciplinary contexts that cross adult and children's services. The course is also relevant for professionals who supervise staff in the above areas.</p>		
+			<!-- </div> -->
+		<!-- </div> -->
+		
+		<!--
+		
+		<p><h3>
+		<img class="pull-left" src="../img/arrows-blue.png" width="20px"></img>&nbsp Attachment-based practice</p></h3>
+		
+		<p> Attachment theory is essential for understanding how human beings function in relationships and how people develop social and psychological difficulties. It is also fundamental for understanding what constitutes psychological well-being. While attachment theory is a fascinating field of study, busy front line practitioners and supervisors are best served with training that helps them to translate the theory into principles, tools and practical strategies for working. This course does just that. It is designed to increase the confidence of practitioners and supervisors to act as change agents with their clients and supervisees, and to understand and relate to people in an attuned way.</p>
+		
+		<p>This training course introduces contemporary attachment theory, its links with child development, neurobiology and the emerging field of narrative medicine, which harnesses the powerful effects of personal stories on human development. The course uses powerful case studies to illustrate how and why people develop different attachment strategies.</p>
+		
+		<p>The course is primarily designed for practitioners who work with adults. People who work with children and adolescents have also found the course relevant because it covers the development of attachment strategies and psychological self-protective strategies from birth across the lifespan, and also because professionals who work with children also work in the context of family systems and often with the adults who care for the child. </p><br />
+	
+		<p><h3><img class="pull-left" src="../img/arrows-blue.png" width="20px"></img>&nbsp Course structure</p></h3>
+<p>Four segments of 4-3-2-1 days, totalling 10 days<p>
+<ul class="mainbody">
+	<li>Part One: Introduction to attachment-based practice (4 days)</li>
+	<li>Part Two: Practical exercises for use in attachment-based assessment and intervention (3 days)</li>
+	<li>Part Three: Attachment-based supervision - supporting, supervising and sustaining practitioners (2 days)</li>
+	<li>Part Four: Consolidating and embedding the learning: Integrating attachment-based practice in the long-term (1 day)</li>
+</ul>
+<p>Course duration - 10 days spread over 9 to 12 months.<p>
+<p>Part One is a pre-requisite for attending the later segments, but can also be commissioned as a stand-alone course. This programme is a mixture of presentation, audio playback of case study interviews, and participatory work, with a strong emphasis on the development of the practical skills of reflective practice, discourse analysis, assessment and motivational dialogue. </p><br />
+
+		<p><h3><img class="pull-left" src="../img/arrows-blue.png" width="20px"></img>&nbsp Who is this course for?</p></h3>
+
+<p>Practitioners and supervisors in:</p>
+<ul class="mainbody">
+	<li>social work</li>
+	<li>mental health</li>
+	<li>psychological therapy services of all types</li>
+	<li>medicine and palliative care</li>
+	<li>adoption and fostering/children's and families services</li>
+	<li>education</li>
+	<li>criminal justice</li>
+	<li>students on qualifying and post-qualifying courses.</li>
+</ul>		
+		
+		
+		--> 
+		
+		</div>
+		
+<!-- left panel with quotes -->
+		
+		<div class="col-md-2 col-md-pull-7">
+		
+		<div class="quote-box">
+				<p class="quote">'At last I understand attachment theory!'<p>
+				<p class="source">2013 participant</p>
+				<p class="quote">'Attachment informed practice strongly enables staff to return to the relationship based social work Professor Munro has advocated.'</p>
+				<p class="source">Executive Head of Service - Adults and Safeguarding</p>
+				<p class="quote">'I was encouraged to challenge my assumptions with regard to certain clients' behaviour, particularly confrontational clients.  I was also encouraged to balance task-led work with person-centred, relationship-based work on a human level.'</p>
+				<p class="source">Social Worker</p>
+				<p class="quote">'Thank you for an absolutely amazing training experience. It was most inspiring. I learnt so much and I am now paying particular attention to detail when talking to clients and making sense of their discourse.'</p>
+				<p class="source">2013 participant</p>
+			
+			</div>
+		
+		</div>
+
+
+<!-- side panels -->
+        <div class="col-md-3">
+		
+			<div class="image-container">
+		
+			<img class="panel-image" src="../img/attachment.png"></img>
+			
+			</div>
+		
+			<div class="panel panel-default">
+				<div class="panel-heading"><i class="icon-calendar"></i> &nbsp Next course dates</div>
+				<div class="panel-body">
+				<p>There are currently no future course dates scheduled, but look out here for 2016 dates to be announced soon.</p>
+				</div>
+			</div>			
+			
+			<div class="panel panel-default">
+				<div class="panel-heading"><i class="icon-info-sign"></i> &nbsp About our other courses</div>
+				<div class="panel-body">
+					<p><a href="../docs/CPAttachmentBasedPracticeCourse.pdf" target="_blank">Click here</a> for information about our ten-day training programme in attachment-based practice (PDF)</p>
+					
+				</div>
+			</div>
+			
+			
+		</div>
+	 
+</div>
+
+		<!--#include virtual="/includes/page-footer.ssi" -->
+
+	  
+    </div> <!-- /container -->
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../js/bootstrap.min.js"></script>
+  </body>
+</html>
