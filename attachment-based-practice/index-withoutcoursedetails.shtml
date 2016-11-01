@@ -30,35 +30,24 @@
 
 		
        <div class="row">
-	    
+	  
+ 
+	  
 <!-- main container -->
         <div class="col-md-7 col-md-push-2 home-page-main">
 		
-		<h3><i class="icon-edit icon-2x pull-left icon-muted"></i> Now booking: Attachment-Based Practice with Adults</h3>
-			<p>21st - 23rd March 2017 at Novotel, Broad Street, Birmingham B1 2HT, UK</p>
-			<p>A course for professionals from a range of disciplines who work with parents, carers or other adults whose behaviour may place children or other adults at risk of significant harm.  All delegates will receive a copy of Attachment-based Practice with Adults, by Clark Baim and Tony Morrison, published 2011 by Pavilion (retail price &pound;115).</p>
-			<p>Fee: &pound;375 excluding VAT (includes lunches but not accommodation))</p>
-			<p><i class="icon-file-text"></i>&nbsp;<a href="../docs/2017-03-AttachmentBasedPracticeWithAdults.pdf" target="_blank">More details</a> (PDF)  </p>
+		<!-- <div class="panel panel-default"> -->
+			<!-- <div class="panel-body"> -->
+			<h3><img class="pull-left" src="../img/arrows-blue.png" width="20px"></img>&nbsp Attachment-based practice</p></h3>
+			<p>We offer a variety of courses on attachment-based practice.  Below are details of our <i>Attachment-Based Practice with Adults</i> course, which last ran in October 2015.  Keep an eye out here for future courses or <a href="../contact">contact us</a> with your requirements.</p>
+			
+			<hr />
+			
+			<h3><i class="icon-edit icon-2x pull-left icon-muted"></i> Attachment-Based Practice with Adults</h3>
+			<p>A three-day course for professionals from a range of disciplines who work with parents, carers or other adults whose behaviour may place children or other adults at risk of significant harm.  All delegates will receive a copy of Attachment-based Practice with Adults, by Clark Baim and Tony Morrison, published 2011 by Pavilion (retail price &pound;115).</p><br />
 				
-				<div>
-				<div class="inline-elements">
-				<i class="icon-check-sign"></i>&nbsp;Book one or more places now via PayPal
-				</div>
-				
-				<div class="inline-elements">
-				<!-- PayPal button code -->
-				<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-					<input type="hidden" name="cmd" value="_s-xclick">
-					<input type="hidden" name="hosted_button_id" value="9AT7Q6H96VKXS">
-					<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_paynow_SM.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
-					<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-				</form>
-				<!-- end of PayPal code-->
-				</div>
-				</div>
-			<br/>
 			<p><h3>
-		<img class="pull-left" src="../img/arrows-blue.png" width="20px"></img>&nbsp What the course offers:</p></h3>
+			<img class="pull-left" src="../img/arrows-blue.png" width="20px"></img>&nbsp What the course offers:</p></h3>
 				<ul class="mainbody">
 					<li>Understanding the key elements of contemporary attachment theory</li>
 					<li>Identifying how attachment strategies are expressed in speech and behaviour</li>
@@ -73,6 +62,47 @@
 		<p><h3>
 		<img class="pull-left" src="../img/arrows-blue.png" width="20px"></img>&nbsp Who is this course for?</p></h3>
 			<p>This course is for professionals with some experience of undertaking assessments or therapeutic work with parents or other adults who pose a risk to themselves or others. This includes those working in child welfare / child protection settings, adult mental health or counselling services, criminal justice and multi-disciplinary contexts that cross adult and children's services. The course is also relevant for professionals who supervise staff in the above areas.</p>		
+			<!-- </div> -->
+		<!-- </div> -->
+		
+		<!--
+		
+		<p><h3>
+		<img class="pull-left" src="../img/arrows-blue.png" width="20px"></img>&nbsp Attachment-based practice</p></h3>
+		
+		<p> Attachment theory is essential for understanding how human beings function in relationships and how people develop social and psychological difficulties. It is also fundamental for understanding what constitutes psychological well-being. While attachment theory is a fascinating field of study, busy front line practitioners and supervisors are best served with training that helps them to translate the theory into principles, tools and practical strategies for working. This course does just that. It is designed to increase the confidence of practitioners and supervisors to act as change agents with their clients and supervisees, and to understand and relate to people in an attuned way.</p>
+		
+		<p>This training course introduces contemporary attachment theory, its links with child development, neurobiology and the emerging field of narrative medicine, which harnesses the powerful effects of personal stories on human development. The course uses powerful case studies to illustrate how and why people develop different attachment strategies.</p>
+		
+		<p>The course is primarily designed for practitioners who work with adults. People who work with children and adolescents have also found the course relevant because it covers the development of attachment strategies and psychological self-protective strategies from birth across the lifespan, and also because professionals who work with children also work in the context of family systems and often with the adults who care for the child. </p><br />
+	
+		<p><h3><img class="pull-left" src="../img/arrows-blue.png" width="20px"></img>&nbsp Course structure</p></h3>
+<p>Four segments of 4-3-2-1 days, totalling 10 days<p>
+<ul class="mainbody">
+	<li>Part One: Introduction to attachment-based practice (4 days)</li>
+	<li>Part Two: Practical exercises for use in attachment-based assessment and intervention (3 days)</li>
+	<li>Part Three: Attachment-based supervision - supporting, supervising and sustaining practitioners (2 days)</li>
+	<li>Part Four: Consolidating and embedding the learning: Integrating attachment-based practice in the long-term (1 day)</li>
+</ul>
+<p>Course duration - 10 days spread over 9 to 12 months.<p>
+<p>Part One is a pre-requisite for attending the later segments, but can also be commissioned as a stand-alone course. This programme is a mixture of presentation, audio playback of case study interviews, and participatory work, with a strong emphasis on the development of the practical skills of reflective practice, discourse analysis, assessment and motivational dialogue. </p><br />
+
+		<p><h3><img class="pull-left" src="../img/arrows-blue.png" width="20px"></img>&nbsp Who is this course for?</p></h3>
+
+<p>Practitioners and supervisors in:</p>
+<ul class="mainbody">
+	<li>social work</li>
+	<li>mental health</li>
+	<li>psychological therapy services of all types</li>
+	<li>medicine and palliative care</li>
+	<li>adoption and fostering/children's and families services</li>
+	<li>education</li>
+	<li>criminal justice</li>
+	<li>students on qualifying and post-qualifying courses.</li>
+</ul>		
+		
+		
+		--> 
 		
 		</div>
 		
@@ -107,24 +137,7 @@
 			<div class="panel panel-default">
 				<div class="panel-heading"><i class="icon-calendar"></i> &nbsp Next course dates</div>
 				<div class="panel-body">
-					<p>7-9 October 2015</p>
-					<h4>Attachment-Based Practice with Adults</h4>
-					<p>Novotel, Broad Street, Birmingham B1 2HT, UK</p>
-					<p>Fee: &pound;450 (inclusive of VAT & lunches)</p>
-					<p><i class="icon-file-text"></i>&nbsp;<a href="AttachmentBasedPracticewithAdultsOct2015-flyerandbookingform.pdf" target="_blank">More details</a> (PDF)  </p>
-				
-					<i class="icon-check-sign"></i>&nbsp;Book now via PayPal
-					
-					<div style="padding-top:10px;">
-				<!-- PayPal button code -->
-				<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-					<input type="hidden" name="cmd" value="_s-xclick">
-					<input type="hidden" name="hosted_button_id" value="9AT7Q6H96VKXS">
-					<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_paynow_SM.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
-					<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-				</form>
-				<!-- end of PayPal code-->
-					</div>	
+				<p>There are currently no future course dates scheduled, but look out here for 2016 dates to be announced soon.</p>
 				</div>
 			</div>			
 			
