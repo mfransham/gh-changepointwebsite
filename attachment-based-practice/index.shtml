@@ -34,50 +34,8 @@
 <!-- main container -->
         <div class="col-md-7 col-md-push-2 home-page-main">
 		
-		<h3><i class="icon-edit icon-2x pull-left icon-muted"></i> Next course date: Attachment-Based Practice with Adults</h3>
-			<p>24-26 April 2018 at Novotel, Broad Street, Birmingham B1 2HT, UK</p>
-			<p>A course for professionals from a range of disciplines who work with parents, carers or other adults whose behaviour may place children or other adults at risk of significant harm.  All delegates will receive a copy of Attachment-based Practice with Adults, by Clark Baim and Tony Morrison, published 2011 by Pavilion (retail price &pound;95).</p>
-			<p>Fee: &pound;450 (inclusive of VAT & lunches)</p>
-			<p><i class="icon-file-text"></i>&nbsp;<a href="../docs/2018-04-Attachment-Based-Practice-With-Adults.pdf" target="_blank">More details</a> (PDF)  </p>
-				
-				<div>
-				<div class="inline-elements">
-				<i class="icon-check-sign"></i>&nbsp;Book one or more places now via PayPal
-				</div>
-				
-				<div class="inline-elements">
-				<!-- PayPal button code -->
-					<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-					<input type="hidden" name="cmd" value="_s-xclick">
-					<input type="hidden" name="hosted_button_id" value="ZEABW96G2M3ME">
-					<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_paynow_SM.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
-					<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-					</form>
-				<!-- end of PayPal code-->
-				</div>
-				</div>
-			<br/>
-			<p><h3>
-		<img class="pull-left" src="../img/arrows-blue.png" width="20px"></img>&nbsp What the course offers:</p></h3>
-				<ul class="mainbody">
-					<li>Understanding the key elements of contemporary attachment theory</li>
-					<li>Identifying how attachment strategies are expressed in speech and behaviour</li>
-					<li>Developing interview skills to assess the nature of the attachment strategy</li>
-					<li>Learning and practising a five-stage protocol to improve psychological coherence</li>
-					<li>Applying theory in practice through transcript analysis of clinical interviews</li>
-					<li>A comprehensive guide on attachment based interviewing, with detailed case studies</li>
-				</ul>
-			
-			<p>The course is a mixture of presentation, audio and video clips, and small group tasks.</p><br/>
-		
-		<p><h3>
-		<img class="pull-left" src="../img/arrows-blue.png" width="20px"></img>&nbsp Who is this course for?</p></h3>
-			<p>This course is for professionals with some experience of undertaking assessments or therapeutic work with parents or other adults who pose a risk to themselves or others. This includes those working in child welfare / child protection settings, adult mental health or counselling services, criminal justice and multi-disciplinary contexts that cross adult and children's services. The course is also relevant for professionals who supervise staff in the above areas.</p>		
-		
-		<hr / >
-		
-		<h3><i class="icon-edit icon-2x pull-left icon-muted"></i> <a name="PartTwo"></a>Follow-on course: Attachment-Based Practice with Adults, Part Two</h3>
-			<p>2-4 October 2018, central Birmingham, UK</p>
+		<h3><i class="icon-edit icon-2x pull-left icon-muted"></i></a>Next course date: Attachment-Based Practice with Adults, Part Two</h3>
+			<p>2-4 October 2018, The Beeches, Bournville, Birmingham B30 1LS, UK</p>
 			<p>This course focuses on practical applications of attachment-based practice, and is a follow-on course for people who have attended the three-day Part One course.</p>
 			<p>Fee: &pound;390 (inclusive of VAT & lunches)</p>
 			<p><i class="icon-file-text"></i>&nbsp;<a href="../docs/2018-10-Attachment-Based-Practice-With-Adults-Part-Two.pdf" target="_blank">More details</a> (PDF)  </p>
@@ -148,30 +106,9 @@
 			<div class="panel panel-default">
 				<div class="panel-heading"><i class="icon-calendar"></i> &nbsp Next course dates</div>
 				<div class="panel-body">
-					<p>24-26 April 2018</p>
-					<h4>Attachment-Based Practice with Adults</h4>
-					<p>Novotel, Broad Street, Birmingham B1 2HT, UK</p>
-					<p>Fee: &pound;450 (inclusive of VAT & lunches)</p>
-					<p><i class="icon-file-text"></i>&nbsp;<a href="../docs/2018-04-Attachment-Based-Practice-With-Adults.pdf" target="_blank">More details</a> (PDF)  </p>
-				
-					<i class="icon-check-sign"></i>&nbsp;Book now via PayPal
-					
-					<div style="padding-top:10px;">
-				<!-- PayPal button code -->
-					<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-					<input type="hidden" name="cmd" value="_s-xclick">
-					<input type="hidden" name="hosted_button_id" value="ZEABW96G2M3ME">
-					<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_paynow_SM.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
-					<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-					</form>
-				<!-- end of PayPal code-->
-					</div>	
-					
-					<hr />
-					
 					<p>2-4 October 2018</p>
 					<h4>Attachment-Based Practice with Adults: Part Two</h4>
-					<p>Central Birmingham, UK</p>
+					<p>The Beeches, Bournville, Birmingham B30 1LS, UK</p>
 					<p>Fee: &pound;390 (inclusive of VAT & lunches)</p>
 					<p><i class="icon-file-text"></i>&nbsp;<a href="../docs/2018-10-Attachment-Based-Practice-With-Adults-Part-Two.pdf" target="_blank">More details</a> (PDF)  </p>
 				
