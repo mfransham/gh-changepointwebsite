@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Change Point | attachment-based practice</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap, Font Awesome and Google web fonts-->
+    <link href="../css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=PT+Sans:700' rel='stylesheet' type='text/css'>
+	<!-- Custom styles for this template -->
+    <link href="../css/custom.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.js"></script>
+      <script src="../js/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    
+	
+	<div class="container">
+		
+		<!--#include virtual="/includes/page-heading.ssi" -->
+
+	<script>
+	  document.getElementById("abp").setAttribute("class","active");
+	 </script> 
+
+		
+       <div class="row">
+	    
+<!-- main container -->
+        <div class="col-md-7 col-md-push-2 home-page-main">
+		
+		<h3><i class="icon-edit icon-2x pull-left icon-muted"></i></a>Next course date: Attachment-Based Practice with Adults, Part Two</h3>
+			<p>2-4 October 2018, The Beeches, Bournville, Birmingham B30 1LS, UK</p>
+			<p>This course focuses on practical applications of attachment-based practice, and is a follow-on course for people who have attended the three-day Part One course.</p>
+			<p>Fee: &pound;390 (inclusive of VAT & lunches)</p>
+			<p><i class="icon-file-text"></i>&nbsp;<a href="../docs/2018-10-Attachment-Based-Practice-With-Adults-Part-Two.pdf" target="_blank">More details</a> (PDF)  </p>
+				
+				<div>
+				<div class="inline-elements">
+				<i class="icon-check-sign"></i>&nbsp;Book one or more places now via PayPal
+				</div>
+				
+				<div class="inline-elements">
+				<!-- PayPal button code -->
+					<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+					<input type="hidden" name="cmd" value="_s-xclick">
+					<input type="hidden" name="hosted_button_id" value="UFFAJDK7KUKDU">
+					<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_paynow_SM.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+					<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+					</form>
+				<!-- end of PayPal code-->
+				</div>
+				</div>
+			<br/>
+			<p><h3>
+		<img class="pull-left" src="../img/arrows-blue.png" width="20px"></img>&nbsp What the course offers:</p></h3>
+				<ul class="mainbody">
+					<li>Re-cap of the key elements of contemporary attachment theory</li>
+					<li>Re-cap of the LEARN Model for improving psychological integration</li>
+					<li>Practising attachment-informed interviewing skills using a comprehensive, attachment-based interviewing guide</li>
+					<li>A six point model for case formulation, tracking progress, and programme evaluation</li>
+					<li>Practising a range of exercises and techniques in chapter nine of the course text</li>
+				</ul>
+			
+			<p>The course is a mixture of presentation and small group tasks.</p><br/>
+		
+		<p><h3>
+		<img class="pull-left" src="../img/arrows-blue.png" width="20px"></img>&nbsp Who is this course for?</p></h3>
+			<p><b>The pre-requisite to attend this course is attendance at a Part One course in attachment-based practice with adults</b>. This course is for professionals who work with parents or other adults who pose a risk to themselves or others. This includes those working in child welfare / child protection settings, safeguarding, adult mental health, social care or counselling services, criminal justice and multi-disciplinary contexts that cross adult and children's services. This course is also relevant for professionals who supervise staff in the above areas.</p>				
+		
+		</div>
+		
+<!-- left panel with quotes -->
+		
+		<div class="col-md-2 col-md-pull-7">
+		
+		<div class="quote-box">
+				<p class="quote">'At last I understand attachment theory!'<p>
+				<p class="source">2013 participant</p>
+				<p class="quote">'Attachment informed practice strongly enables staff to return to the relationship based social work Professor Munro has advocated.'</p>
+				<p class="source">Executive Head of Service - Adults and Safeguarding</p>
+				<p class="quote">'I was encouraged to challenge my assumptions with regard to certain clients' behaviour, particularly confrontational clients.  I was also encouraged to balance task-led work with person-centred, relationship-based work on a human level.'</p>
+				<p class="source">Social Worker</p>
+				<p class="quote">'Thank you for an absolutely amazing training experience. It was most inspiring. I learnt so much and I am now paying particular attention to detail when talking to clients and making sense of their discourse.'</p>
+				<p class="source">2013 participant</p>
+			
+			</div>
+		
+		</div>
+
+
+<!-- side panels -->
+        <div class="col-md-3">
+		
+			<div class="image-container">
+		
+			<img class="panel-image" src="../img/attachment.png"></img>
+			
+			</div>
+		
+			<div class="panel panel-default">
+				<div class="panel-heading"><i class="icon-calendar"></i> &nbsp Next course dates</div>
+				<div class="panel-body">
+					<p>2-4 October 2018</p>
+					<h4>Attachment-Based Practice with Adults: Part Two</h4>
+					<p>The Beeches, Bournville, Birmingham B30 1LS, UK</p>
+					<p>Fee: &pound;390 (inclusive of VAT & lunches)</p>
+					<p><i class="icon-file-text"></i>&nbsp;<a href="../docs/2018-10-Attachment-Based-Practice-With-Adults-Part-Two.pdf" target="_blank">More details</a> (PDF)  </p>
+				
+					<i class="icon-check-sign"></i>&nbsp;Book now via PayPal
+					
+					<div style="padding-top:10px;">
+				<!-- PayPal button code -->
+					<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+					<input type="hidden" name="cmd" value="_s-xclick">
+					<input type="hidden" name="hosted_button_id" value="UFFAJDK7KUKDU">
+					<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_paynow_SM.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+					<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+					</form>
+				<!-- end of PayPal code-->
+					</div>	
+
+				</div>
+			</div>			
+			
+			<div class="panel panel-default">
+				<div class="panel-heading"><i class="icon-info-sign"></i> &nbsp About our other courses</div>
+				<div class="panel-body">
+					<p><a href="../docs/CPAttachmentBasedPracticeCourse.pdf" target="_blank">Click here</a> for information about our ten-day training programme in attachment-based practice (PDF)</p>
+					
+				</div>
+			</div>
+			
+			
+		</div>
+	 
+</div>
+
+		<!--#include virtual="/includes/page-footer.ssi" -->
+
+	  
+    </div> <!-- /container -->
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../js/bootstrap.min.js"></script>
+  </body>
+</html>
